@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "1.17.1",
+    "@pdf-lib/fontkit": "1.2.1"
+  }
+}
